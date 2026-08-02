@@ -82,6 +82,17 @@ Folders will be added progressively as new case studies are completed.
 
 ## Current Case Studies
 
+### Heart Health Classification
+
+**Location:** `Classification/heart_health_classification/`
+
+Two complementary Decision Tree case studies using the Heart Failure Prediction dataset:
+
+1. Four-class Chest Pain Type Classification
+2. Binary Heart Disease Classification
+
+The project includes data-quality assessment, leakage-safe preprocessing, stratified cross-validation, holdout evaluation, class-balanced metrics, confusion matrices, feature importance and interpretable tree visualisations.
+
 ### E-Commerce Customer Segmentation
 
 **Location:** `clustering/ecommerce_customer_segmentation/`
@@ -121,7 +132,7 @@ Each case study aims to include:
 
 The repository documents practical progression across supervised and unsupervised machine learning.
 
-Projects may originate from academic coursework, independent analysis or workflows initially developed in tools such as RapidMiner and later reimplemented in Python. Each project will be clearly described according to its origin and scope.
+Each project is presented as a self-contained case study with a clearly documented analytical objective, methodology and scope.
 
 ## Disclaimer
 
